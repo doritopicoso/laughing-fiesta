@@ -1,91 +1,305 @@
 8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1733683691800 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733684380197 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 international-ministries.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 approved-displaying.gl.at.ply.gg:4070 => 127.0.0.1:4070 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733683694877 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733684383258 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 international-ministries.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 approved-displaying.gl.at.ply.gg:4070 => 127.0.0.1:4070 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733683697941 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733684386358 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 international-ministries.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 approved-displaying.gl.at.ply.gg:4070 => 127.0.0.1:4070 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733683701030 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1733684401474 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 international-ministries.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 approved-displaying.gl.at.ply.gg:4070 => 127.0.0.1:4070 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733683704130 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733684404594 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 international-ministries.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 approved-displaying.gl.at.ply.gg:4070 => 127.0.0.1:4070 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733683707221 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733684407660 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 international-ministries.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 approved-displaying.gl.at.ply.gg:4070 => 127.0.0.1:4070 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733683710490 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1733684422795 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 international-ministries.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 approved-displaying.gl.at.ply.gg:4070 => 127.0.0.1:4070 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733683713666 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733684425869 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 international-ministries.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 approved-displaying.gl.at.ply.gg:4070 => 127.0.0.1:4070 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733683716735 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1733684440963 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 international-ministries.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 approved-displaying.gl.at.ply.gg:4070 => 127.0.0.1:4070 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733683719891 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733684444042 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 international-ministries.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 approved-displaying.gl.at.ply.gg:4070 => 127.0.0.1:4070 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733683722966 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733684447105 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 international-ministries.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 approved-displaying.gl.at.ply.gg:4070 => 127.0.0.1:4070 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733683726027 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1733684462213 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 international-ministries.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 approved-displaying.gl.at.ply.gg:4070 => 127.0.0.1:4070 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733683729121 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733684465306 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+international-ministries.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+approved-displaying.gl.at.ply.gg:4070 => 127.0.0.1:4070 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733684468371 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+international-ministries.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+approved-displaying.gl.at.ply.gg:4070 => 127.0.0.1:4070 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1733684483641 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+international-ministries.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+approved-displaying.gl.at.ply.gg:4070 => 127.0.0.1:4070 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733684486722 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+international-ministries.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+approved-displaying.gl.at.ply.gg:4070 => 127.0.0.1:4070 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1733684501886 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+international-ministries.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+approved-displaying.gl.at.ply.gg:4070 => 127.0.0.1:4070 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733684505097 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+international-ministries.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+approved-displaying.gl.at.ply.gg:4070 => 127.0.0.1:4070 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733684508161 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+international-ministries.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+approved-displaying.gl.at.ply.gg:4070 => 127.0.0.1:4070 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1733684523332 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+international-ministries.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+approved-displaying.gl.at.ply.gg:4070 => 127.0.0.1:4070 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733684526520 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+international-ministries.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+approved-displaying.gl.at.ply.gg:4070 => 127.0.0.1:4070 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733684529580 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+international-ministries.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+approved-displaying.gl.at.ply.gg:4070 => 127.0.0.1:4070 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1733684544703 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+international-ministries.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+approved-displaying.gl.at.ply.gg:4070 => 127.0.0.1:4070 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733684547780 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+international-ministries.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+approved-displaying.gl.at.ply.gg:4070 => 127.0.0.1:4070 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1733684562878 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+international-ministries.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+approved-displaying.gl.at.ply.gg:4070 => 127.0.0.1:4070 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733684565936 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+international-ministries.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+approved-displaying.gl.at.ply.gg:4070 => 127.0.0.1:4070 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733684569011 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+international-ministries.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+approved-displaying.gl.at.ply.gg:4070 => 127.0.0.1:4070 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1733684584114 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+international-ministries.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+approved-displaying.gl.at.ply.gg:4070 => 127.0.0.1:4070 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733684587174 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+international-ministries.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+approved-displaying.gl.at.ply.gg:4070 => 127.0.0.1:4070 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733684590254 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+international-ministries.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+approved-displaying.gl.at.ply.gg:4070 => 127.0.0.1:4070 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1733684605356 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+international-ministries.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+approved-displaying.gl.at.ply.gg:4070 => 127.0.0.1:4070 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733684608810 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+international-ministries.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+approved-displaying.gl.at.ply.gg:4070 => 127.0.0.1:4070 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1733684624092 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+international-ministries.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+approved-displaying.gl.at.ply.gg:4070 => 127.0.0.1:4070 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733684627150 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+international-ministries.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+approved-displaying.gl.at.ply.gg:4070 => 127.0.0.1:4070 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1733684642266 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+international-ministries.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+approved-displaying.gl.at.ply.gg:4070 => 127.0.0.1:4070 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733684645483 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+international-ministries.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+approved-displaying.gl.at.ply.gg:4070 => 127.0.0.1:4070 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733684648623 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+international-ministries.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+approved-displaying.gl.at.ply.gg:4070 => 127.0.0.1:4070 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733684651689 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
